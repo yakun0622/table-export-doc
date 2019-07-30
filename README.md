@@ -1,1 +1,1 @@
-# table-export-doc
+导出数据库中表结构的说明文档
